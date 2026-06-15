@@ -97,14 +97,14 @@ For every plan tier upgrades outnumber downgrades. Pro has the highest upgrade a
 New customer acquisition started at roughly 40 per month in January and grew steadily reaching nearly 200 by December. This is the strongest growth trend in the entire dataset. Acquisition is clearly working but the churn rate at 11.10% is absorbing a large portion of this growth before it compounds.
 
 *Daily New Customers (Line Chart)*
-Daily acquisition fluctuates between 50K and 100K in total customer value terms with significant day-to-day volatility. Spikes appear around days 5 10 and 25 possibly corresponding to campaign pushes or billing cycle activity. The sharp drop at day 30–31 may reflect end-of-month churn rather than a true acquisition drop.
+Daily acquisition fluctuates between 50K and 100K in total customer value terms with significant day-to-day volatility. Spikes appear around days 5, 10 and 25 possibly corresponding to campaign pushes or billing cycle activity. The sharp drop at day 30–31 may reflect end-of-month churn rather than a true acquisition drop.
 
 ---
 
 ### Feature Usage Dashboard
 
 *Top 5 Feature Usage Frequency (Horizontal Bar Chart)*
-feature\_26 is the most used with roughly 380 usage events followed by feature\_8 feature\_12 feature\_10 and feature\_1 all sitting between 300 and 350. Usage is fairly concentrated in these five features which means the rest of the product (21+ features) is getting relatively low engagement.
+feature\_26 is the most used with roughly 380 usage events followed by feature\_8 feature\_12 feature\_10 and feature\_1 all sitting between 300 and 350. Usage is fairly concentrated in these five features which means the rest of the product is getting relatively low engagement.
 
 *Monthly Error Trend (Line Chart)*
 Errors started high in January at around 58 dropped to a low near 38 in April spiked again in May to around 55 then gradually declined through the rest of the year settling around 42–45 in Q4. The early-year spike and mid-year spike suggest either product releases introducing bugs or traffic surges the platform was not ready for. The trend does improve by year-end which is encouraging.
